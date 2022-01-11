@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'PetSocial'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1DB3B427F86243839BACAD4502C1C443 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_817F3DD4B6F64A82A61E1A2D5B49113D }}
           package: .
